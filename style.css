@@ -1,0 +1,8 @@
+/* Ühine CSS fail kõikidele lehtedele*/
+.main
+{
+    color:dimgrey;
+    font-family: Arial;
+    font-size: 22px;
+    text-align: center;
+}
