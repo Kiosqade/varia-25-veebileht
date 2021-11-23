@@ -1,0 +1,159 @@
+{
+    "text_questions":
+    [
+        {
+            "question": "Kus plahvatas esimene aatomipomm?",
+            "options":
+            [
+                "Bikini Atoll",
+                "Hiroshima",
+                "New Mexico",
+                "Nagasaki"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "Millises riigis leiutati paber?",
+            "options":
+            [
+                "Inglismaa",
+                "Hiina",
+                "Jaapan",
+                "Saksamaa"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "Kus asub  maailma suurim kõrb?",
+            "options":
+            [
+                "Aafrika",
+                "Austraalia",
+                "Aasia",
+                "Antarktika"
+            ],
+            "correct": "4"
+        },
+        {
+            "question": "Mis on toatemperatuuril sulav metall?",
+            "options":
+            [
+                "Elavhõbe",
+                "Volfram",
+                "Gallium",
+                "Tseesium"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "Mis riigist pärineb šokolaad?",
+            "options":
+            [
+                "Brasiilia",
+                "Mehhiko",
+                "India",
+                "Šveits"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "Mis on Hiina rahaühiku nimetus?",
+            "options":
+            [
+                "Jeen",
+                "Peeso",
+                "Vonn",
+                "Jüaan"
+            ],
+            "correct": "4"
+        },
+        {
+            "question": "Mis on rooma number 500?",
+            "options":
+            [
+                "C",
+                "L",
+                "D",
+                "X"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "Mis on vanim Euroopast leitud muumia?",
+            "options":
+            [
+                "Mtoto",
+                "Ötzi",
+                "Lady Rai",
+                "Egtvedi piiga"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "Milliseid värve koerad näevad?",
+            "options":
+            [
+                "Kollast ja rohelist",
+                "Punast ja kollast",
+                "Punast ja rohelist",
+                "Sinist ja kollast"
+            ],
+            "correct": "4"
+        }
+    ],
+    "image_questions":
+    [
+        {
+            "question": "Kuidas nimetatakse pildil olevat metalli?",
+            "options":
+            [
+                "Boor",
+                "Ütrium",
+                "Vismut",
+                "Bohrium"
+            ],
+            "correct": "3",
+            "image": "image_1.jpg",
+            "source": "Sharon McCutcheon"
+        },
+        {
+            "question": "Kuidas nimetatakse pildil olevat lindu?",
+            "options":
+            [
+                "Hüüp",
+                "Kingnokk",
+                "Ginea kaljukark",
+                "Hoatsiin"
+            ],
+            "correct": "2",
+            "image": "image_2.jpg",
+            "source": "Melissa Askew"
+        },
+        {
+            "question": "Kuidas nimetatakse pildil olevat taime?",
+            "options":
+            [
+                "Siumari",
+                "Käoking",
+                "Kanada kukits",
+                "Toompihlakas"
+            ],
+            "correct": "1",
+            "image": "image_3.jpg",
+            "source": "SA Järvselja Õppe- ja Katsemetskond"
+        },
+        {
+            "question": "Kuidas nimetatakse pildil olevat seadet?",
+            "options":
+            [
+                "Kendama",
+                "Tamagotchi",
+                "Gashapon",
+                "Tuttuki Bako"
+            ],
+            "correct": "1",
+            "image": "image_4.jpg",
+            "source": "Jenna Jovi"
+        }
+    ]
+}
