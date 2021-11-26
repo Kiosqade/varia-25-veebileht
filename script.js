@@ -38,6 +38,22 @@ async function random_image_question() {
     document.getElementById("image").src = 'media/trivia_images/'+all_questions.image_questions[chosen_index].image+'';
     correct_choice = all_questions.image_questions[chosen_index].correct;
 }
+// video küsimused
+async function random_video_question() {
+    var response = await fetch("questions.json");
+    var all_questions = await response.json();
+    all_questions = JSON.stringify(all_questions);
+    all_questions = JSON.parse(all_questions);
+    let chosen_index = Math.floor(Math.random()*all_questions.video_questions.length);
+    document.getElementById("question").innerHTML = all_questions.video_questions[chosen_index].question;
+    document.getElementById("option1").innerHTML = all_questions.video_questions[chosen_index].options[0];
+    document.getElementById("option2").innerHTML = all_questions.video_questions[chosen_index].options[1];
+    document.getElementById("option3").innerHTML = all_questions.video_questions[chosen_index].options[2];
+    document.getElementById("option4").innerHTML = all_questions.video_questions[chosen_index].options[3];
+    document.getElementById("source").innerHTML = all_questions.video_questions[chosen_index].source;
+    document.getElementById("video").src = 'media/trivia_videos/'+all_questions.video_questions[chosen_index].video+'';
+    correct_choice = all_questions.video_questions[chosen_index].correct;
+}
 
 // kontrollime vastust
 async function check_answer(choice) {
@@ -55,5 +71,8 @@ async function check_answer(choice) {
     }
     if (current_trivia == "/image_trivia.html") {
         random_image_question();
+    }
+    if (current_trivia == "/video_trivia.html") {
+    random_video_question();
     }
 }
