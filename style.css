@@ -66,3 +66,17 @@ button:hover {
     left: 50%;
     transform: translate(-50%);
 }
+
+#video {
+    width: 400px;
+    height: auto;
+    border: 4px solid white;
+    border-radius: 10px;
+}
+
+.video {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%);
+}
