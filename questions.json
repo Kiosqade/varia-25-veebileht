@@ -101,6 +101,252 @@
             "correct": "4"
         }
     ],
+    
+    "video_questions":
+    [
+        {
+            "question": "Kuidas nimetatakse videos olevat looma?",
+            "options":
+            [
+                "Hiidsiil",
+                "Okassiga",
+                "Haiiti pilukoonu",
+                "Merisiil"
+            ],
+            "correct": "2",
+            "video": "video1.mp4"
+        },
+        {
+            "question": "Mis füüsikalist ekperimenti on näidatud videos?",
+            "options":
+            [
+                "Newtoni valguse dispersioon",
+                "Huygensi printsiip",
+                "Fermat' printsiip",
+                "Valguse dualism"
+            ],
+            "correct": "1",
+            "video": "video2.mp4"
+        },
+        {
+            "question": "Mis metalliga on tegemist?",
+            "options":
+            [
+                "Liitium",
+                "Alumiinium",
+                "Gallium",
+                "Elavhõbe"
+            ],
+            "correct": "3",
+            "video": "video3.mp4"
+
+        },
+        {
+            "question": "Missugust bakteri paljunemist on näidatud?",
+            "options":
+            [
+                "Spoor",
+                "Suguline paljunemine",
+                "Pungumine",
+                "Pooldumine"
+            ],
+            "correct": "4",
+            "video": "video4.mp4"
+        },
+        {
+            "question": "Mis protsess toimub videos?",
+            "options": 
+            [
+                "Vase korrudeerumine",
+                "Raua roostetamine",
+                "Magneesiumi Korrudeerumine",
+                "Vase värvimine"
+            ],
+            "correct": "1",
+            "video": "video5.mp4"
+        },
+        {
+            "question": "Mis balettist on pärit antud tükk?",
+            "options": 
+            [
+                "P.Tšaikovski 'Pähklipureja'",
+                "A.Adam 'Giselle'",
+                "P.Tšaikovski 'Luikede järv'",
+                "L.Minkus 'Bajadeer'"
+            ],
+            "correct": "3",
+            "video": "video6.mp4"
+        },
+        {
+            "question": "Mis ooperist on antud tükk pärit?",
+            "options": 
+            [
+                "G. Verdi 'La Traviata'",
+                "G. Donizetti 'Don Pasquale'",
+                "G. Bizet 'Carmen'",
+                "G. Puccini 'Tosca'"
+            ],
+            "correct": "3",
+            "video": "video7.mp4"
+        },
+        {
+            "question": "Mis sündmust on näidatud videos?",
+            "options": 
+            [
+                "Kuninganna Victoria kroonimine",
+                "Kunninganna Elizabeth I kroonimine",
+                "Kuninganna Anne kroonimine",
+                "Kuninganna Elizabeth II kroonimine"
+            ],
+            "correct": "4",
+            "video": "video8.mp4"
+        },
+        {
+            "question": "Mis füüsikalist eksperimenti on näidatud videos?",
+            "options": 
+            [
+                "Bohri kass",
+                "Plancki kass",
+                "Schrödingeri kass",
+                "Feymani kiisu"
+            ],
+            "correct": "3",
+            "video": "video9.mp4"
+        },
+        {
+            "question": "Mis filmist on antud tseen pärit?",
+            "options": 
+            [
+                "'Armastusega Venemaalt'",
+                "'Jason Bourne'",
+                "'007: Luba tappa'",
+                "'007 ja Kuldsilm'"
+            ],
+            "correct": "1",
+            "video": "video10.mp4"
+        },
+        {
+            "question": "Mis füüsialist seadust iseloomustab antud video?",
+            "options":
+            [
+                "Ampère'i seadus",
+                "Newtoni gravitatsiooniseadus",
+                "Faraday seadus",
+                "Ohmi seadus"
+            ],
+            "correct": "2",
+            "video": "video11.mp4"
+        },
+        {
+            "question": "Mis on videos olev põlev aine?",
+            "options":
+            [
+                "Naatriumkloriid",
+                "Väävel",
+                "Vask(II)nitraat",
+                "Suhkur"
+            ],
+            "correct": "2",
+            "video": "video12.mp4"
+        },
+        {
+            "question": "Mis filmist on pärit antud tseen?",
+            "options": 
+            [
+                "'Vampiiri päevikud'",
+                "'Agent Salt'",
+                "'Tagaotsitav'",
+                "'Ehast koiduni'"
+            ],
+            "correct": "4",
+            "video": "video13.mp4"
+        },
+        {
+            "question": "Mis näriline on videos?",
+            "options":
+            [
+                "Villahiir",
+                "Karihiir",
+                "Kaelushiir",
+                "Rändrott"
+            ],
+            "correct": "1",
+            "video": "video14.mp4"
+        },
+        {
+            "question": "Mis taim on videos?",
+            "options": 
+            [
+                "Kärbsepüünis",
+                "Huulhein",
+                "Õgikann",
+                "Kärbsesööja"
+            ],
+            "correct": "1",
+            "video": "video15.mp4"
+        },
+        {
+            "question": "Kes on meesnäitleja antud videos?",
+            "options":
+            [
+                "David Schwimmer",
+                "Matthew Perry",
+                "Matt LeBlanc",
+                "Paul Rudd"
+            ],
+            "correct": "3",
+            "video": "video16.mp4"
+        },
+        {
+            "question": "Mis sündmus on kujutatud antud videos?",
+            "options": 
+            [
+                "Pearl Harbori rünnak",
+                "Inglismaa pommitamine teise maailmasõja ajal",
+                "Leningradi blokaad",
+                "Hiroshima tuumapomm"
+            ],
+            "correct": "1",
+            "video": "video17.mp4"
+        },
+        {
+            "question": "Mis aasta on antud laul välja tulnud?",
+            "options":
+            [
+                "1960",
+                "1970",
+                "1950",
+                "1965"
+            ],
+            "correct": "4",
+            "video": "video18.mp4"
+        },
+        {
+            "question": "Mis fiktsionaalse tegelase surma on antud videos näidatud?",
+            "options": 
+            [
+                "Ellen Ripley",
+                "Ophelia",
+                "Vera Claythorne",
+                "Anna Karenina"
+            ],
+            "correct": "4",
+            "video": "video19.mp4"
+        },
+        {
+            "question": "Mis ajaloolist sündmust on antud videos kujutatud?",
+            "options":
+            [
+                "Pompei mattumine Vesuuvi vulkaanilise tuha alla",
+                "Nevado del Ruiz purse Colmbias",
+                "Kilauea purse Hawaiis",
+                "Unzendake purse Jaapanis"
+            ],
+            "correct": "1",
+            "video": "video20.mp4"
+        }
+    ],
+    
     "image_questions":
     [
         {
