@@ -114,7 +114,8 @@
                 "Merisiil"
             ],
             "correct": "2",
-            "video": "video1.mp4"
+            "video": "video1.mp4",
+            "source": "Zooniversity1"
         },
         {
             "question": "Mis füüsikalist ekperimenti on näidatud videos?",
@@ -126,7 +127,8 @@
                 "Valguse dualism"
             ],
             "correct": "1",
-            "video": "video2.mp4"
+            "video": "video2.mp4",
+            "source": "Rex Prototypes"
         },
         {
             "question": "Mis metalliga on tegemist?",
@@ -138,7 +140,8 @@
                 "Elavhõbe"
             ],
             "correct": "3",
-            "video": "video3.mp4"
+            "video": "video3.mp4",
+            "source": "NileRed Shorts"
 
         },
         {
@@ -151,7 +154,8 @@
                 "Pooldumine"
             ],
             "correct": "4",
-            "video": "video4.mp4"
+            "video": "video4.mp4",
+            "source": "Serafina C"
         },
         {
             "question": "Mis protsess toimub videos?",
@@ -163,7 +167,8 @@
                 "Vase värvimine"
             ],
             "correct": "1",
-            "video": "video5.mp4"
+            "video": "video5.mp4",
+            "source": "Camel Glass & Joinery Ltd"
         },
         {
             "question": "Mis balettist on pärit antud tükk?",
@@ -175,7 +180,8 @@
                 "L.Minkus 'Bajadeer'"
             ],
             "correct": "3",
-            "video": "video6.mp4"
+            "video": "video6.mp4",
+            "source": "medici.tv"
         },
         {
             "question": "Mis ooperist on antud tükk pärit?",
@@ -187,7 +193,8 @@
                 "G. Puccini 'Tosca'"
             ],
             "correct": "3",
-            "video": "video7.mp4"
+            "video": "video7.mp4",
+            "source": "Royal Opera House"
         },
         {
             "question": "Mis sündmust on näidatud videos?",
@@ -199,7 +206,8 @@
                 "Kuninganna Elizabeth II kroonimine"
             ],
             "correct": "4",
-            "video": "video8.mp4"
+            "video": "video8.mp4",
+            "source": "WHD Studios"
         },
         {
             "question": "Mis füüsikalist eksperimenti on näidatud videos?",
@@ -211,7 +219,8 @@
                 "Feymani kiisu"
             ],
             "correct": "3",
-            "video": "video9.mp4"
+            "video": "video9.mp4",
+            "source": "TED-Ed"
         },
         {
             "question": "Mis filmist on antud tseen pärit?",
@@ -223,7 +232,8 @@
                 "'007 ja Kuldsilm'"
             ],
             "correct": "1",
-            "video": "video10.mp4"
+            "video": "video10.mp4",
+            "source": "oli sorenson"
         },
         {
             "question": "Mis füüsialist seadust iseloomustab antud video?",
@@ -235,7 +245,8 @@
                 "Ohmi seadus"
             ],
             "correct": "2",
-            "video": "video11.mp4"
+            "video": "video11.mp4",
+            "source": "learning junction"
         },
         {
             "question": "Mis on videos olev põlev aine?",
@@ -247,7 +258,8 @@
                 "Suhkur"
             ],
             "correct": "2",
-            "video": "video12.mp4"
+            "video": "video12.mp4",
+            "source": "ChemToddler"
         },
         {
             "question": "Mis filmist on pärit antud tseen?",
@@ -259,7 +271,8 @@
                 "'Ehast koiduni'"
             ],
             "correct": "4",
-            "video": "video13.mp4"
+            "video": "video13.mp4",
+            "source": "WARN YOUR VICTIMS"
         },
         {
             "question": "Mis näriline on videos?",
@@ -271,7 +284,8 @@
                 "Rändrott"
             ],
             "correct": "1",
-            "video": "video14.mp4"
+            "video": "video14.mp4",
+            "source": "ChinTubeHD"
         },
         {
             "question": "Mis taim on videos?",
@@ -283,7 +297,8 @@
                 "Kärbsesööja"
             ],
             "correct": "1",
-            "video": "video15.mp4"
+            "video": "video15.mp4",
+            "source": "Lee Hawke"
         },
         {
             "question": "Kes on meesnäitleja antud videos?",
@@ -295,7 +310,8 @@
                 "Paul Rudd"
             ],
             "correct": "3",
-            "video": "video16.mp4"
+            "video": "video16.mp4",
+            "source": "whyyounounderstand"
         },
         {
             "question": "Mis sündmus on kujutatud antud videos?",
@@ -307,7 +323,8 @@
                 "Hiroshima tuumapomm"
             ],
             "correct": "1",
-            "video": "video17.mp4"
+            "video": "video17.mp4",
+            "source": "hasan 15m"
         },
         {
             "question": "Mis aasta on antud laul välja tulnud?",
@@ -319,7 +336,8 @@
                 "1965"
             ],
             "correct": "4",
-            "video": "video18.mp4"
+            "video": "video18.mp4",
+            "source": "The Beatles"
         },
         {
             "question": "Mis fiktsionaalse tegelase surma on antud videos näidatud?",
@@ -331,7 +349,8 @@
                 "Anna Karenina"
             ],
             "correct": "4",
-            "video": "video19.mp4"
+            "video": "video19.mp4",
+            "source": "Unofficial Media"
         },
         {
             "question": "Mis ajaloolist sündmust on antud videos kujutatud?",
@@ -343,7 +362,8 @@
                 "Unzendake purse Jaapanis"
             ],
             "correct": "1",
-            "video": "video20.mp4"
+            "video": "video20.mp4",
+            "source": "Twig Education"
         }
     ],
     
