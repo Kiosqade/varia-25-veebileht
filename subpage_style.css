@@ -1,0 +1,76 @@
+/* Alalehtede css fail */
+@import url('https://fonts.googleapis.com/css2?family=Alike&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Alike', serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    background-color: lightslategrey;
+}
+
+button {
+    padding: 3px;
+    border-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+button:hover {
+    border-color: rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+}
+
+.focus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    width: 600px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.question {
+    text-align: center;
+}
+
+.options {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.score {
+    height: 22px;
+    text-align: center;
+    font-size: 75%;
+}
+
+.media {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+#image {
+    width: 400px;
+    height: auto;
+    border: 4px solid white;
+    border-radius: 10px;
+}
+
+#video {
+    width: 400px;
+    height: auto;
+    border: 4px solid white;
+    border-radius: 10px;
+}

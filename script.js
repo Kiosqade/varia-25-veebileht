@@ -63,7 +63,7 @@ async function check_answer(choice) {
     }
     // näitame vastatud kordi
     total_guesses = total_guesses + 1;
-    document.getElementById("score_display").innerHTML = score + "/" + total_guesses;
+    document.getElementById("score_display").innerHTML = "Õigesti arvatud: " + score + " Kokku arvatud: " + total_guesses;
     // uuendame vastavat küsimust
     var current_trivia = window.location.pathname;
     if (current_trivia == "/text_trivia.html") {
