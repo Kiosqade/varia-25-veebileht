@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Videote varia</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+<body onload="random_video_question()">
+  <div class="focus"> 
+    <h1 class="question"><span id ="question"></span></h1>
+    <br>
+    <div class="options">
+      <button onclick="check_answer('1')"><span id="option1"></span></button>
+      <button onclick="check_answer('2')"><span id="option2"></span></button>
+      <button onclick="check_answer('3')"><span id="option3"></span></button>
+      <button onclick="check_answer('4')"><span id="option4"></span></button>
+    </div>
+    <div class="score">
+      <h1><span id="score_display"></span></h1>
+    </div>
+    </div>
+    <div class="video">
+      <video id='video' controls preload="metadata" autoplay></video>
+    </video>
+    <p>Video autor: <span id="source"></span></p>
+    </div>
+</body>
+</html>

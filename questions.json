@@ -1,0 +1,425 @@
+{
+    "text_questions":
+    [
+        {
+            "question": "Kus plahvatas esimene aatomipomm?",
+            "options":
+            [
+                "Bikini Atoll",
+                "Hiroshima",
+                "New Mexico",
+                "Nagasaki"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "Millises riigis leiutati paber?",
+            "options":
+            [
+                "Inglismaa",
+                "Hiina",
+                "Jaapan",
+                "Saksamaa"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "Kus asub  maailma suurim kõrb?",
+            "options":
+            [
+                "Aafrika",
+                "Austraalia",
+                "Aasia",
+                "Antarktika"
+            ],
+            "correct": "4"
+        },
+        {
+            "question": "Mis on toatemperatuuril sulav metall?",
+            "options":
+            [
+                "Elavhõbe",
+                "Volfram",
+                "Gallium",
+                "Tseesium"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "Mis riigist pärineb šokolaad?",
+            "options":
+            [
+                "Brasiilia",
+                "Mehhiko",
+                "India",
+                "Šveits"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "Mis on Hiina rahaühiku nimetus?",
+            "options":
+            [
+                "Jeen",
+                "Peeso",
+                "Vonn",
+                "Jüaan"
+            ],
+            "correct": "4"
+        },
+        {
+            "question": "Mis on rooma number 500?",
+            "options":
+            [
+                "C",
+                "L",
+                "D",
+                "X"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "Mis on vanim Euroopast leitud muumia?",
+            "options":
+            [
+                "Mtoto",
+                "Ötzi",
+                "Lady Rai",
+                "Egtvedi piiga"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "Milliseid värve koerad näevad?",
+            "options":
+            [
+                "Kollast ja rohelist",
+                "Punast ja kollast",
+                "Punast ja rohelist",
+                "Sinist ja kollast"
+            ],
+            "correct": "4"
+        }
+    ],
+    
+    "video_questions":
+    [
+        {
+            "question": "Kuidas nimetatakse videos olevat looma?",
+            "options":
+            [
+                "Hiidsiil",
+                "Okassiga",
+                "Haiiti pilukoonu",
+                "Merisiil"
+            ],
+            "correct": "2",
+            "video": "video1.mp4",
+            "source": "Zooniversity1"
+        },
+        {
+            "question": "Mis füüsikalist ekperimenti on näidatud videos?",
+            "options":
+            [
+                "Newtoni valguse dispersioon",
+                "Huygensi printsiip",
+                "Fermat' printsiip",
+                "Valguse dualism"
+            ],
+            "correct": "1",
+            "video": "video2.mp4",
+            "source": "Rex Prototypes"
+        },
+        {
+            "question": "Mis metalliga on tegemist?",
+            "options":
+            [
+                "Liitium",
+                "Alumiinium",
+                "Gallium",
+                "Elavhõbe"
+            ],
+            "correct": "3",
+            "video": "video3.mp4",
+            "source": "NileRed Shorts"
+
+        },
+        {
+            "question": "Missugust bakteri paljunemist on näidatud?",
+            "options":
+            [
+                "Spoor",
+                "Suguline paljunemine",
+                "Pungumine",
+                "Pooldumine"
+            ],
+            "correct": "4",
+            "video": "video4.mp4",
+            "source": "Serafina C"
+        },
+        {
+            "question": "Mis protsess toimub videos?",
+            "options": 
+            [
+                "Vase korrudeerumine",
+                "Raua roostetamine",
+                "Magneesiumi Korrudeerumine",
+                "Vase värvimine"
+            ],
+            "correct": "1",
+            "video": "video5.mp4",
+            "source": "Camel Glass & Joinery Ltd"
+        },
+        {
+            "question": "Mis balettist on pärit antud tükk?",
+            "options": 
+            [
+                "P.Tšaikovski 'Pähklipureja'",
+                "A.Adam 'Giselle'",
+                "P.Tšaikovski 'Luikede järv'",
+                "L.Minkus 'Bajadeer'"
+            ],
+            "correct": "3",
+            "video": "video6.mp4",
+            "source": "medici.tv"
+        },
+        {
+            "question": "Mis ooperist on antud tükk pärit?",
+            "options": 
+            [
+                "G. Verdi 'La Traviata'",
+                "G. Donizetti 'Don Pasquale'",
+                "G. Bizet 'Carmen'",
+                "G. Puccini 'Tosca'"
+            ],
+            "correct": "3",
+            "video": "video7.mp4",
+            "source": "Royal Opera House"
+        },
+        {
+            "question": "Mis sündmust on näidatud videos?",
+            "options": 
+            [
+                "Kuninganna Victoria kroonimine",
+                "Kunninganna Elizabeth I kroonimine",
+                "Kuninganna Anne kroonimine",
+                "Kuninganna Elizabeth II kroonimine"
+            ],
+            "correct": "4",
+            "video": "video8.mp4",
+            "source": "WHD Studios"
+        },
+        {
+            "question": "Mis füüsikalist eksperimenti on näidatud videos?",
+            "options": 
+            [
+                "Bohri kass",
+                "Plancki kass",
+                "Schrödingeri kass",
+                "Feymani kiisu"
+            ],
+            "correct": "3",
+            "video": "video9.mp4",
+            "source": "TED-Ed"
+        },
+        {
+            "question": "Mis filmist on antud tseen pärit?",
+            "options": 
+            [
+                "'Armastusega Venemaalt'",
+                "'Jason Bourne'",
+                "'007: Luba tappa'",
+                "'007 ja Kuldsilm'"
+            ],
+            "correct": "1",
+            "video": "video10.mp4",
+            "source": "oli sorenson"
+        },
+        {
+            "question": "Mis füüsialist seadust iseloomustab antud video?",
+            "options":
+            [
+                "Ampère'i seadus",
+                "Newtoni gravitatsiooniseadus",
+                "Faraday seadus",
+                "Ohmi seadus"
+            ],
+            "correct": "2",
+            "video": "video11.mp4",
+            "source": "learning junction"
+        },
+        {
+            "question": "Mis on videos olev põlev aine?",
+            "options":
+            [
+                "Naatriumkloriid",
+                "Väävel",
+                "Vask(II)nitraat",
+                "Suhkur"
+            ],
+            "correct": "2",
+            "video": "video12.mp4",
+            "source": "ChemToddler"
+        },
+        {
+            "question": "Mis filmist on pärit antud tseen?",
+            "options": 
+            [
+                "'Vampiiri päevikud'",
+                "'Agent Salt'",
+                "'Tagaotsitav'",
+                "'Ehast koiduni'"
+            ],
+            "correct": "4",
+            "video": "video13.mp4",
+            "source": "WARN YOUR VICTIMS"
+        },
+        {
+            "question": "Mis näriline on videos?",
+            "options":
+            [
+                "Villahiir",
+                "Karihiir",
+                "Kaelushiir",
+                "Rändrott"
+            ],
+            "correct": "1",
+            "video": "video14.mp4",
+            "source": "ChinTubeHD"
+        },
+        {
+            "question": "Mis taim on videos?",
+            "options": 
+            [
+                "Kärbsepüünis",
+                "Huulhein",
+                "Õgikann",
+                "Kärbsesööja"
+            ],
+            "correct": "1",
+            "video": "video15.mp4",
+            "source": "Lee Hawke"
+        },
+        {
+            "question": "Kes on meesnäitleja antud videos?",
+            "options":
+            [
+                "David Schwimmer",
+                "Matthew Perry",
+                "Matt LeBlanc",
+                "Paul Rudd"
+            ],
+            "correct": "3",
+            "video": "video16.mp4",
+            "source": "whyyounounderstand"
+        },
+        {
+            "question": "Mis sündmus on kujutatud antud videos?",
+            "options": 
+            [
+                "Pearl Harbori rünnak",
+                "Inglismaa pommitamine teise maailmasõja ajal",
+                "Leningradi blokaad",
+                "Hiroshima tuumapomm"
+            ],
+            "correct": "1",
+            "video": "video17.mp4",
+            "source": "hasan 15m"
+        },
+        {
+            "question": "Mis aasta on antud laul välja tulnud?",
+            "options":
+            [
+                "1960",
+                "1970",
+                "1950",
+                "1965"
+            ],
+            "correct": "4",
+            "video": "video18.mp4",
+            "source": "The Beatles"
+        },
+        {
+            "question": "Mis fiktsionaalse tegelase surma on antud videos näidatud?",
+            "options": 
+            [
+                "Ellen Ripley",
+                "Ophelia",
+                "Vera Claythorne",
+                "Anna Karenina"
+            ],
+            "correct": "4",
+            "video": "video19.mp4",
+            "source": "Unofficial Media"
+        },
+        {
+            "question": "Mis ajaloolist sündmust on antud videos kujutatud?",
+            "options":
+            [
+                "Pompei mattumine Vesuuvi vulkaanilise tuha alla",
+                "Nevado del Ruiz purse Colmbias",
+                "Kilauea purse Hawaiis",
+                "Unzendake purse Jaapanis"
+            ],
+            "correct": "1",
+            "video": "video20.mp4",
+            "source": "Twig Education"
+        }
+    ],
+    
+    "image_questions":
+    [
+        {
+            "question": "Kuidas nimetatakse pildil olevat metalli?",
+            "options":
+            [
+                "Boor",
+                "Ütrium",
+                "Vismut",
+                "Bohrium"
+            ],
+            "correct": "3",
+            "image": "image_1.jpg",
+            "source": "Sharon McCutcheon"
+        },
+        {
+            "question": "Kuidas nimetatakse pildil olevat lindu?",
+            "options":
+            [
+                "Hüüp",
+                "Kingnokk",
+                "Ginea kaljukark",
+                "Hoatsiin"
+            ],
+            "correct": "2",
+            "image": "image_2.jpg",
+            "source": "Melissa Askew"
+        },
+        {
+            "question": "Kuidas nimetatakse pildil olevat taime?",
+            "options":
+            [
+                "Siumari",
+                "Käoking",
+                "Kanada kukits",
+                "Toompihlakas"
+            ],
+            "correct": "1",
+            "image": "image_3.jpg",
+            "source": "SA Järvselja Õppe- ja Katsemetskond"
+        },
+        {
+            "question": "Kuidas nimetatakse pildil olevat seadet?",
+            "options":
+            [
+                "Kendama",
+                "Tamagotchi",
+                "Gashapon",
+                "Tuttuki Bako"
+            ],
+            "correct": "1",
+            "image": "image_4.jpg",
+            "source": "Jenna Jovi"
+        }
+    ]
+}
