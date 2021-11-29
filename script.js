@@ -65,7 +65,7 @@ async function check_answer(choice) {
     total_guesses = total_guesses + 1;
     document.getElementById("score_display").innerHTML = "Õigesti arvatud: " + score + " Kokku arvatud: " + total_guesses;
     // uuendame vastavat küsimust
-    var current_trivia = window.location.pathname;
+    var current_trivia = window.location.href;
     if (current_trivia.indexOf('/text_trivia.html') !== -1) {
         random_text_question();
     }
