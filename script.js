@@ -66,13 +66,13 @@ async function check_answer(choice) {
     document.getElementById("score_display").innerHTML = "Õigesti arvatud: " + score + " Kokku arvatud: " + total_guesses;
     // uuendame vastavat küsimust
     var current_trivia = window.location.pathname;
-    if (current_trivia == "/text_trivia.html") {
+    if (current_trivia.indexOf('/text_trivia.html') !== -1) {
         random_text_question();
     }
-    if (current_trivia == "/image_trivia.html") {
+    if (current_trivia.indexOf('/image_trivia.html') !== -1) {
         random_image_question();
     }
-    if (current_trivia == "/video_trivia.html") {
+    if (current_trivia.indexOf('/video_trivia.html') !== -1) {
     random_video_question();
     }
 }
