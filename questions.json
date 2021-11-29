@@ -99,6 +99,50 @@
                 "Sinist ja kollast"
             ],
             "correct": "4"
+        },
+        {
+            "question": "Milline nendest kosmosesüstikutest plahvatas?",
+            "options":
+            [
+                "Challenger",
+                "Champion",
+                "Titan",
+                "Apollo"
+            ],
+            "correct": "1"
+        },
+        {
+            "question": "Mis on esimese lennukiga lennanud vendade perenimi?",
+            "options":
+            [
+                "Braun",
+                "Lindbergh",
+                "Wright",
+                "Boeing"
+            ],
+            "correct": "3"
+        },
+        {
+            "question": "Mis tüüpi keel on HTML?",
+            "options":
+            [
+                "Skriptimiskeel",
+                "Märgistuskeel",
+                "Programmeerimiskeel",
+                "Assemblerkeel"
+            ],
+            "correct": "2"
+        },
+        {
+            "question": "Millisel kiirtoiduketil on maailmas kõige rohkem asukohti?",
+            "options":
+            [
+                "Starbucks",
+                "McDonalds",
+                "KFC",
+                "Subway"
+            ],
+            "correct": "4"
         }
     ],
     
@@ -420,6 +464,45 @@
             "correct": "1",
             "image": "image_4.jpg",
             "source": "Jenna Jovi"
+        },
+        {
+            "question": "Millises riigis asub pildil kujutatud järv?",
+            "options":
+            [
+                "Hispaania",
+                "Madagaskar",
+                "Austraalia",
+                "Peruu"
+            ],
+            "correct": "3",
+            "image": "image_5.jpg",
+            "source": "Viator"
+        },
+        {
+            "question": "Kuidas nimetatakse pildil kujutatud spordiala?",
+            "options":
+            [
+                "Kriket",
+                "Ragbi",
+                "Polo",
+                "Lakross"
+            ],
+            "correct": "4",
+            "image": "image_6.jpg",
+            "source": "Jeffrey F Lin"
+        },
+        {
+            "question": "Millise riigi lipp on pildil?",
+            "options":
+            [
+                "Austraalia",
+                "Uus-Meremaa",
+                "Fidži",
+                "Tuvalu"
+            ],
+            "correct": "2",
+            "image": "image_7.jpg",
+            "source": "Albert Hastings Markham"
         }
     ]
 }
